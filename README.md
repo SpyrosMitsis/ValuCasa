@@ -19,7 +19,11 @@ ValuCasa is an open-source web application that scrapes housing market data and 
 - [@KriKri04](https://github.com/KriKri04)
 - [@XarisTrp](https://github.com/XarisTrp)
 
+## DEMO
 
+<div align="center">
+  <img src="https://github.com/SpyrosMitsis/ValuCasa/blob/main/valuCasa_front_end.png?raw=true" alt="Logo"height: auto;" />
+</div>
 
 ## Contributing
 
